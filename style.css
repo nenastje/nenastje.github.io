@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+    //padding-top: 60px; 
+    background: linear-gradient(to bottom, #b4eb34, #cc92ff);
+    height: 100vh;
+    //height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto;
+}
+
+/*Lang switch bouton*/
+.language-switch {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/*Bar de navigation*/
+.navbar {
+    width: 100%;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar li {
+    margin: 0 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding: 5px 10px;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.navbar a:hover {
+    background-color: #b8ff00;
+    color: black;
+    border-radius: 5px;
+}
+
+/*Accueil*/
+.portfolio {
+    //position: relative;
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+    max-width: 600px;
+    padding: 0px;
+    //padding-bottom: 90px; 
+    //border: 1px solid #000;  
+}
+
+.portfolio h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.portfolio p {
+  font-size: 20px;
+}
+
+/*A propos*/
+.content {
+    flex: 2;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    text-align: left;
+    max-width: 600px;
+    max-height: 70%;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 50px;
+    margin-right: 5%;
+    overflow-y: auto;
+}
+
+.myphoto {
+    flex: 1;
+    max-width: 260px;
+    max-height: 70%; 
+    margin: 10px;
+    margin-top: 50px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.content h2 {
+    text-align: left;
+    margin-bottom: -5px;
+    font-size: 25px;
+}
+
+.content p {
+  text-align: justify;
+  text-align-last: left;
+}
+
