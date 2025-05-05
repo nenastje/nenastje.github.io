@@ -4,7 +4,7 @@ Je m'appelle **Anastasiia Mikhailova** et c'est mon portfolio.
 
 ## A propos de moi
 
-Je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.
+<p>J'ai obtenu mon *Bachelor en Linguistique* à *l'Université d'Etat de Novossibisk* en *2022*.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
 
 ### Cours que je suis ce semestre :
 
@@ -16,6 +16,6 @@ Je suis étudiante en première année de *Master en Technologies de la traducti
 - Interface personne-machine (IPM)
 
 ### Liens : 
-- [Voir mon site](https://nenastje.github.io/)
-- [Voir mon profil](https://github.com/nenastje)
+1. [Voir mon site](https://nenastje.github.io/)
+2. [Voir mon profil](https://github.com/nenastje)
 
