@@ -1,11 +1,12 @@
 # Bienvenue sur mon site web personnel 
 
-Je m'appelle **Anastasiia Mikhailova** et c'est mon portfolio.
+Cette page a été créé dans le cadre du cours **Technologies de l'information et de la communication**.
 
 ## A propos de moi
 
-<p>J'ai obtenu mon *Bachelor en Linguistique* à *l'Université d'Etat de Novossibisk* en *2022*.</p>
-<p>Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
+<p>Bonjour ! Je m'appelle Anastasiia, j'ai 25 ans, je viens de Russie.</p>
+<p>J'ai obtenu mon *Bachelor en Linguistique* à *l'Université d'Etat de Novossibisk* en *2022*.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
+<p>Dans mon temps libre j'aime bien faire du vélo, de l'escalade, dessiner et tatouer.</p>
 
 ### ***Cours que je suis ce semestre*** :
 
@@ -13,7 +14,7 @@ Je m'appelle **Anastasiia Mikhailova** et c'est mon portfolio.
 - Traduction audivisuelle 2
 - Gestion de projets et assurance qualité
 - Corpus pour la traduction
-- Technologies de l'information et de la communication
+- Technologies de l'information et de la communication (TIC)
 - Interface personne-machine (IPM)
 
 ### Liens : 
