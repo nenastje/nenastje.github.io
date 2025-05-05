@@ -5,7 +5,7 @@ Cette page a été créé dans le cadre du cours **Technologies de l'information
 ## A propos de moi
 
 <p>Bonjour ! Je m'appelle Anastasiia, j'ai 25 ans, je viens de Russie.</p>
-<p>J'ai obtenu mon _Bachelor en Linguistique_ à *l'Université d'Etat de Novossibisk* en *2022*.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
+<p>J'ai obtenu mon _ Bachelor en Linguistique _ à *l'Université d'Etat de Novossibisk* en *2022*.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
 <p>Dans mon temps libre j'aime bien faire du vélo, de l'escalade, dessiner et tatouer.</p>
 
 ### ***Cours que je suis ce semestre*** :
