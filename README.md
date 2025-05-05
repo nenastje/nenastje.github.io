@@ -4,7 +4,7 @@ Je m'appelle **Anastasiia Mikhailova** et c'est mon portfolio.
 
 ## A propos de moi
 
-<p>J'ai obtenu mon * Bachelor en Linguistique * à * l'Université d'Etat de Novossibisk * en * 2022 *.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
+<p>J'ai obtenu mon *Bachelor en Linguistique* à *l'Université d'Etat de Novossibisk* en *2022*.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
 
 ### Cours que je suis ce semestre :
 
