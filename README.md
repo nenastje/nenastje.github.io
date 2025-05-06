@@ -1,6 +1,6 @@
 # Bienvenue sur mon site web personnel 
 
-Cette page a été créé dans le cadre du cours **Technologies de l'information et de la communication**.
+Cette page a été créé dans le cadre du cours ***Technologies de l'information et de la communication***.
 
 ## A propos de moi
 
@@ -8,7 +8,7 @@ Cette page a été créé dans le cadre du cours **Technologies de l'information
 <p>J'ai obtenu mon *Bachelor en Linguistique* à *l'Université d'Etat de Novossibisk* en *2022*.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
 <p>Dans mon temps libre j'aime bien faire du vélo, de l'escalade, dessiner et tatouer.</p> 
 
-### ***Cours que je suis ce semestre*** :
+### **Cours que je suis ce semestre** :
 
 - Traduction automatique 2
 - Traduction audivisuelle 2
