@@ -22,4 +22,4 @@ Dans mon **temps libre** j'aime bien faire du vélo, de l'escalade, dessiner et 
 1. [Voir mon site](https://nenastje.github.io/)
 2. [Voir mon profil](https://github.com/nenastje)
 
-[] Lecture términé
+- [] Lecture términé
