@@ -4,9 +4,10 @@ Cette page a été créé dans le cadre du cours ***Technologies de l'informatio
 
 ## A propos de moi
 
-<p>Bonjour ! Je m'appelle Anastasiia, j'ai 25 ans, je viens de Russie.</p>
-<p>J'ai obtenu mon *Bachelor en Linguistique* à *l'Université d'Etat de Novossibisk* en *2022*.<br> Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.</p>
-<p>Dans mon **temps libre** j'aime bien faire du vélo, de l'escalade, dessiner et tatouer.</p> 
+Bonjour ! Je m'appelle Anastasiia, j'ai 25 ans, je viens de Russie.
+J'ai obtenu mon *Bachelor en Linguistique* à *l'Université d'Etat de Novossibisk* en *2022*.
+Actuellement je suis étudiante en première année de *Master en Technologies de la traduction et de la communication (MATECH)* à *l'Université de Genève*.
+Dans mon **temps libre** j'aime bien faire du vélo, de l'escalade, dessiner et tatouer.
 
 ### Cours que je suis ce semestre :
 
@@ -21,3 +22,4 @@ Cette page a été créé dans le cadre du cours ***Technologies de l'informatio
 1. [Voir mon site](https://nenastje.github.io/)
 2. [Voir mon profil](https://github.com/nenastje)
 
+[] Lecture términé
