@@ -25,3 +25,5 @@ Dans mon **temps libre** j'aime bien faire du vélo, de l'escalade, dessiner et 
 - [x] Consulter le README.md
 - [ ] Consulter la page web personnelle
 
+[Merci pour votre attention](https://lesonglesdelilie29.wordpress.com/wp-content/uploads/2017/05/mercidevotreattention.jpg)
+
